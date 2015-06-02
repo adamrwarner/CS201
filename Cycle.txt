@@ -1,0 +1,2 @@
+The number of wheels on the bike are: 16
+The weight of the bike is: 18
